@@ -1,0 +1,5 @@
+db.sqlite3
+crm/__pycache__
+mfscrm/__pycache__
+mfscrm/local_settings.py
+myvenv
